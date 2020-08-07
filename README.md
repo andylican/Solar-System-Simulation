@@ -1,1 +1,3 @@
 # SolarSystemSimulation
+
+Authors: Andy Li
